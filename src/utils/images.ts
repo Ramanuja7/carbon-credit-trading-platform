@@ -1,0 +1,11 @@
+export const projectImages: Record<string, string> = {
+  forest: 'https://images.unsplash.com/photo-1640865651855-68079e656075?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmb3Jlc3QlMjB0cmVlcyUyMGdyZWVufGVufDF8fHx8MTc2NTUzMTkyMnww&ixlib=rb-4.1.0&q=80&w=1080',
+  solar: 'https://images.unsplash.com/photo-1545208942-e1c9c916524b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzb2xhciUyMHBhbmVscyUyMGVuZXJneXxlbnwxfHx8fDE3NjU1OTMyNjF8MA&ixlib=rb-4.1.0&q=80&w=1080',
+  wind: 'https://images.unsplash.com/photo-1709204636986-85b428035c14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3aW5kJTIwdHVyYmluZXMlMjBmYXJtfGVufDF8fHx8MTc2NTYwMDM1N3ww&ixlib=rb-4.1.0&q=80&w=1080',
+  mangrove: 'https://images.unsplash.com/photo-1759846856326-c232b1cd7927?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYW5ncm92ZSUyMGNvYXN0YWwlMjB0cmVlc3xlbnwxfHx8fDE3NjU2MDAzNTh8MA&ixlib=rb-4.1.0&q=80&w=1080',
+  cookstove: 'https://images.unsplash.com/photo-1608019527984-d841cf557d77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb29raW5nJTIwc3RvdmUlMjBhZnJpY2F8ZW58MXx8fHwxNzY1NjAwMzU4fDA&ixlib=rb-4.1.0&q=80&w=1080',
+  bamboo: 'https://images.unsplash.com/photo-1696677049444-f695a0935b49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYW1ib28lMjBmb3Jlc3QlMjBncmVlbnxlbnwxfHx8fDE3NjU1OTkyNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+  hydro: 'https://images.unsplash.com/photo-1733001523587-ad1bc6d025c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoeWRyb2VsZWN0cmljJTIwZGFtJTIwd2F0ZXJ8ZW58MXx8fHwxNzY1NTU3OTk3fDA&ixlib=rb-4.1.0&q=80&w=1080',
+  peatland: 'https://images.unsplash.com/photo-1720084697389-fa295d5ad666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZXRsYW5kJTIwcGVhdGxhbmQlMjBuYXR1cmV8ZW58MXx8fHwxNzY1NjAwMzU5fDA&ixlib=rb-4.1.0&q=80&w=1080',
+  biogas: 'https://images.unsplash.com/photo-1648765340365-c827a75a14c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiaW9nYXMlMjByZW5ld2FibGUlMjBmYWNpbGl0eXxlbnwxfHx8fDE3NjU2MDAzNjB8MA&ixlib=rb-4.1.0&q=80&w=1080'
+};
